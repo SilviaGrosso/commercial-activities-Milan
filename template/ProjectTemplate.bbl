@@ -21,8 +21,18 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{Lee2015}
-J.~Lee, ``{Smart Factory Systems},'' \emph{Informatik-Spektrum}, vol.~38,
-  no.~3, pp. 230--235, 2015.
+\bibitem{food_waste}
+\BIBentryALTinterwordspacing
+``{Waste watcher, lo spreco di cibo in Italia vale ancora oltre 9 miliardi di
+  euro l’anno}.'' [Online]. Available:
+  \url{\url{https://greenreport.it/news/economia-ecologica/waste-watcher-lo-spreco-di-cibo-in-italia-vale-ancora-oltre-9-miliardi-di-euro-lanno/}}
+\BIBentrySTDinterwordspacing
+
+\bibitem{prox_ecom}
+\BIBentryALTinterwordspacing
+``{E–commerce di prossimità: il negozio di quartiere online}.'' [Online].
+  Available:
+  \url{\url{https://www.blog.shippypro.com/it/e-commerce-di-prossimita}}
+\BIBentrySTDinterwordspacing
 
 \end{thebibliography}

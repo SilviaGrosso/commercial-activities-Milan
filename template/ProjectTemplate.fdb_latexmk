@@ -1,16 +1,17 @@
 # Fdb version 4
-["bibtex ProjectTemplate"] 1685719319 "ProjectTemplate.aux" "ProjectTemplate.bbl" "ProjectTemplate" 1685720860 0
-  "./references.bib" 1684704637 1309 8afe7060af3b88eb8eb74d59e372238d ""
+["bibtex ProjectTemplate"] 1686303924 "ProjectTemplate.aux" "ProjectTemplate.bbl" "ProjectTemplate" 1686303927 0
+  "./references.bib" 1686298241 916 5c8f003978e7821ea3a819df62f75c90 ""
   "C:/Users/Silvia Grosso/AppData/Local/Programs/MiKTeX/bibtex/bst/ieeetran/IEEEtran.bst" 1440622569 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "ProjectTemplate.aux" 1685720859 1580 5f56d373a152f78ffa47dc655f6586a2 "pdflatex"
+  "ProjectTemplate.aux" 1686303926 2119 c5dc5494c332b08174571b8285dcf792 "pdflatex"
   (generated)
   "ProjectTemplate.bbl"
   "ProjectTemplate.blg"
   (rewritten before read)
-["pdflatex"] 1685720858 "c:/Users/Silvia Grosso/OneDrive - Università degli Studi di Milano-Bicocca/Desktop/SMART CITIES/commercial-activities-Milan/template/ProjectTemplate.tex" "ProjectTemplate.pdf" "ProjectTemplate" 1685720860 0
+["pdflatex"] 1686303924 "c:/Users/Silvia Grosso/OneDrive - Università degli Studi di Milano-Bicocca/Desktop/SMART CITIES/commercial-activities-Milan/template/ProjectTemplate.tex" "ProjectTemplate.pdf" "ProjectTemplate" 1686303927 0
   "C:/Users/Silvia Grosso/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1685698255 181707 374c125cf3816319f5313b7d4727a7f1 ""
+  "C:/Users/Silvia Grosso/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1679579418 11548 3aaff8ef03364dc8e8dd45b9edbe4bea ""
   "C:/Users/Silvia Grosso/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1679579780 23180186 51b18627a6a89af8b08bfeecfd0ba1d2 ""
-  "C:/Users/Silvia Grosso/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233955448 1004 54797486969f23fa377b128694d548df ""
+  "C:/Users/Silvia Grosso/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Users/Silvia Grosso/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/Silvia Grosso/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx9.tfm" 1136768653 1328 5442e22a7072966dbaf88ca900acf3f0 ""
   "C:/Users/Silvia Grosso/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmcsc10.tfm" 1136768653 1300 63a6111ee6274895728663cf4b4e7e81 ""
@@ -24,7 +25,6 @@
   "C:/Users/Silvia Grosso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1247596667 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "C:/Users/Silvia Grosso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/Silvia Grosso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
-  "C:/Users/Silvia Grosso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
   "C:/Users/Silvia Grosso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb" 1247596666 33993 9b89b85fd2d9df0482bd47194d1d3bf3 ""
   "C:/Users/Silvia Grosso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247596667 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "C:/Users/Silvia Grosso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1247596667 36118 fad905eba93cff5bce1e185fe980a177 ""
@@ -134,10 +134,16 @@
   "C:/Users/Silvia Grosso/AppData/Local/Programs/MiKTeX/tex/latex/ucs/utf8x.def" 1660469668 8944 1cf5de165d8b3a9de8975b4e3f40e814 ""
   "C:/Users/Silvia Grosso/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/Silvia Grosso/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "ProjectTemplate.aux" 1685720859 1580 5f56d373a152f78ffa47dc655f6586a2 "pdflatex"
-  "ProjectTemplate.bbl" 1685719319 1028 a8aa7824dd8843510d43b76292a3c64f "bibtex ProjectTemplate"
-  "ProjectTemplate.tex" 1685720857 5724 e31f76fd338988971b877e8a2e2fd455 ""
-  "c:/Users/Silvia Grosso/OneDrive - Università degli Studi di Milano-Bicocca/Desktop/SMART CITIES/commercial-activities-Milan/template/ProjectTemplate.tex" 1685720857 5724 e31f76fd338988971b877e8a2e2fd455 ""
+  "ProjectTemplate.aux" 1686303926 2119 c5dc5494c332b08174571b8285dcf792 "pdflatex"
+  "ProjectTemplate.bbl" 1686303924 1504 cd708ae42af1f51ceed073ca8b4d762d "bibtex ProjectTemplate"
+  "ProjectTemplate.tex" 1686303920 15857 515a19a0d4c75dfd0c6db54a98746eea ""
+  "c:/Users/Silvia Grosso/OneDrive - Università degli Studi di Milano-Bicocca/Desktop/SMART CITIES/commercial-activities-Milan/template/ProjectTemplate.tex" 1686303920 15857 515a19a0d4c75dfd0c6db54a98746eea ""
+  "figs/econ.png" 1686216218 27102 9282a53c59d7e28fbaa7dc7513bed3f5 ""
+  "figs/env.png" 1686223954 40373 f18aaea7be24c1fb1de5a96348833c0d ""
+  "figs/ethic.png" 1686217485 42213 9a222aba2ec51e6667156fce8f9099ba ""
+  "figs/food policy.png" 1686300935 538796 16e1bdb0f45d190bad91b3ef7625568a ""
+  "figs/health.png" 1686224219 28795 ea66674b91989faffe44d55b1a80e2a0 ""
+  "figs/hubs.png" 1686302851 184622 8ee67f2bda7429cd9fd6e3c8dba9c281 ""
   "figs/logo.png" 1684704637 15403 ec49504026331af507ca4b505dbd3b29 ""
   (generated)
   "ProjectTemplate.aux"
