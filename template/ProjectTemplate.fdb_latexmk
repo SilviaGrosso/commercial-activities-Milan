@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex ProjectTemplate"] 1686303924 "ProjectTemplate.aux" "ProjectTemplate.bbl" "ProjectTemplate" 1686303927 0
+["bibtex ProjectTemplate"] 1686303924 "ProjectTemplate.aux" "ProjectTemplate.bbl" "ProjectTemplate" 1686311916 0
   "./references.bib" 1686298241 916 5c8f003978e7821ea3a819df62f75c90 ""
   "C:/Users/Silvia Grosso/AppData/Local/Programs/MiKTeX/bibtex/bst/ieeetran/IEEEtran.bst" 1440622569 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "ProjectTemplate.aux" 1686303926 2119 c5dc5494c332b08174571b8285dcf792 "pdflatex"
+  "ProjectTemplate.aux" 1686311915 2119 c5dc5494c332b08174571b8285dcf792 "pdflatex"
   (generated)
   "ProjectTemplate.bbl"
   "ProjectTemplate.blg"
   (rewritten before read)
-["pdflatex"] 1686303924 "c:/Users/Silvia Grosso/OneDrive - Università degli Studi di Milano-Bicocca/Desktop/SMART CITIES/commercial-activities-Milan/template/ProjectTemplate.tex" "ProjectTemplate.pdf" "ProjectTemplate" 1686303927 0
+["pdflatex"] 1686311913 "c:/Users/Silvia Grosso/OneDrive - Università degli Studi di Milano-Bicocca/Desktop/SMART CITIES/commercial-activities-Milan/template/ProjectTemplate.tex" "ProjectTemplate.pdf" "ProjectTemplate" 1686311916 0
   "C:/Users/Silvia Grosso/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1685698255 181707 374c125cf3816319f5313b7d4727a7f1 ""
   "C:/Users/Silvia Grosso/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1679579418 11548 3aaff8ef03364dc8e8dd45b9edbe4bea ""
   "C:/Users/Silvia Grosso/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1679579780 23180186 51b18627a6a89af8b08bfeecfd0ba1d2 ""
@@ -134,10 +134,10 @@
   "C:/Users/Silvia Grosso/AppData/Local/Programs/MiKTeX/tex/latex/ucs/utf8x.def" 1660469668 8944 1cf5de165d8b3a9de8975b4e3f40e814 ""
   "C:/Users/Silvia Grosso/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/Silvia Grosso/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "ProjectTemplate.aux" 1686303926 2119 c5dc5494c332b08174571b8285dcf792 "pdflatex"
+  "ProjectTemplate.aux" 1686311915 2119 c5dc5494c332b08174571b8285dcf792 "pdflatex"
   "ProjectTemplate.bbl" 1686303924 1504 cd708ae42af1f51ceed073ca8b4d762d "bibtex ProjectTemplate"
-  "ProjectTemplate.tex" 1686303920 15857 515a19a0d4c75dfd0c6db54a98746eea ""
-  "c:/Users/Silvia Grosso/OneDrive - Università degli Studi di Milano-Bicocca/Desktop/SMART CITIES/commercial-activities-Milan/template/ProjectTemplate.tex" 1686303920 15857 515a19a0d4c75dfd0c6db54a98746eea ""
+  "ProjectTemplate.tex" 1686311912 15872 dc7f6afbee808c290b78acf3bba9f520 ""
+  "c:/Users/Silvia Grosso/OneDrive - Università degli Studi di Milano-Bicocca/Desktop/SMART CITIES/commercial-activities-Milan/template/ProjectTemplate.tex" 1686311912 15872 dc7f6afbee808c290b78acf3bba9f520 ""
   "figs/econ.png" 1686216218 27102 9282a53c59d7e28fbaa7dc7513bed3f5 ""
   "figs/env.png" 1686223954 40373 f18aaea7be24c1fb1de5a96348833c0d ""
   "figs/ethic.png" 1686217485 42213 9a222aba2ec51e6667156fce8f9099ba ""
